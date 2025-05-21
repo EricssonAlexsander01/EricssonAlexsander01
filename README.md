@@ -13,7 +13,7 @@
 ---
 
 ## 📌 Projetos em destaque
-
+- [puc-raciocinio-computacional-2025](https://github.com/EricssonAlexsander01/puc-raciocinio-computacional.git) – puc-raciocinio-computacional-2025 – Sistema de Gerenciamento Escolar desenvolvido no primeiro semestre de 2025 para a disciplina de Raciocínio Computacional da PUC. Permite cadastrar, listar, atualizar e excluir estudantes, professores, disciplinas, turmas e matrículas, com persistência em arquivos JSON e interface de terminal simples.
 - [biopark-2024-projeto1](https://github.com/EricssonAlexsander01/biopark-2024-projeto1.git) – Site desenvolvido durante o primeiro semestre da faculdade no Biopark para uma startup, aplicando conhecimentos práticos de desenvolvimento web para criar uma plataforma funcional e responsiva. 
 - [atividade_sanity](https://github.com/EricssonAlexsander01/atividade_sanity) – prática de lógica com JavaScript  
 - [projetoFerlluJs](https://github.com/EricssonAlexsander01/projetoFerlluJs) – repositório de estudo com HTML  
