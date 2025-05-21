@@ -3,12 +3,13 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💼 Office boy em um escritório de contabilidade que apoia meus estudos  
 ❤️ Apaixonado por tecnologia, autodidata e comprometido com a evolução pessoal  
-🚀 Explorando: HTML, CSS, JavaScript, Java e boas práticas de programação  
+🚀 Explorando: Python, HTML, CSS, JavaScript, Java e boas práticas de programação 
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![Java](https://img.shields.io/badge/Java-red)
+![Python](https://img.shields.io/badge/Python-blue)
 
 ---
 
