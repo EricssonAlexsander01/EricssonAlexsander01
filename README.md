@@ -14,10 +14,11 @@
 
 ## 📌 Projetos em destaque
 
-- [site_1_semestre](https://github.com/EricssonAlexsander01/site_1_semestre) – site desenvolvido durante a faculdade para uma empresa  
+- [biopark-2024-projeto1](https://github.com/EricssonAlexsander01/biopark-2024-projeto1.git) – Site desenvolvido durante o primeiro semestre da faculdade no Biopark para uma startup, aplicando conhecimentos práticos de desenvolvimento web para criar uma plataforma funcional e responsiva. 
 - [atividade_sanity](https://github.com/EricssonAlexsander01/atividade_sanity) – prática de lógica com JavaScript  
 - [projetoFerlluJs](https://github.com/EricssonAlexsander01/projetoFerlluJs) – repositório de estudo com HTML  
-- [2-Semestre-Orienta-o-a-Objetos-e-UML](https://github.com/EricssonAlexsander01/2-Semestre-Orienta-o-a-Objetos-e-UML) – disciplina de orientação a objetos com Java e UML  
+- [2-Semestre-Orienta-o-a-Objetos-e-UML](https://github.com/EricssonAlexsander01/2-Semestre-Orienta-o-a-Objetos-e-UML) – disciplina de orientação a objetos com Java e UML
+- [primeiros-passos-html-css](https://github.com/EricssonAlexsander01/primeiros-passos-html-css.git) - Projeto inicial de desenvolvimento web usando HTML e CSS, com foco na estruturação básica de páginas e estilização simples
 
 ---
 
