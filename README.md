@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Ericsson Alexander
+# 👋 Olá! Eu sou o Ericsson Alexsander
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💼 Office boy em um escritório de contabilidade que apoia meus estudos  
