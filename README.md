@@ -1,7 +1,6 @@
 # 👋 Olá! Eu sou o Ericsson Alexsander
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💼 Office boy em um escritório de contabilidade que apoia meus estudos  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas   
 ❤️ Apaixonado por tecnologia, autodidata e comprometido com a evolução pessoal  
 🚀 Explorando: Python, HTML, CSS, JavaScript, Java e boas práticas de programação 
 
