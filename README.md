@@ -1,36 +1,65 @@
-# 👋 Olá! Eu sou o Ericsson Alexsander
+# Ericsson Alexsander
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas   
-❤️ Apaixonado por tecnologia, autodidata e comprometido com a evolução pessoal  
-🚀 Explorando: Python, HTML, CSS, JavaScript, Java e boas práticas de programação 
+Estudante de **Análise e Desenvolvimento de Sistemas na PUCPR**, com experiência prática em suporte técnico, implantação de sistemas e desenvolvimento de aplicações.
 
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Java](https://img.shields.io/badge/Java-red)
-![Python](https://img.shields.io/badge/Python-blue)
+Tenho interesse em desenvolvimento de software, banco de dados, integração de sistemas e automação de processos.
 
----
+## Tecnologias
 
-## 📌 Projetos em destaque
-- [puc-raciocinio-computacional-2025](https://github.com/EricssonAlexsander01/puc-raciocinio-computacional.git) – puc-raciocinio-computacional-2025 – Sistema de Gerenciamento Escolar desenvolvido no primeiro semestre de 2025 para a disciplina de Raciocínio Computacional da PUC. Permite cadastrar, listar, atualizar e excluir estudantes, professores, disciplinas, turmas e matrículas, com persistência em arquivos JSON e interface de terminal simples.
-- [biopark-2024-projeto1](https://github.com/EricssonAlexsander01/biopark-2024-projeto1.git) – Site desenvolvido durante o primeiro semestre da faculdade no Biopark para uma startup, aplicando conhecimentos práticos de desenvolvimento web para criar uma plataforma funcional e responsiva. 
-- [atividade_sanity](https://github.com/EricssonAlexsander01/atividade_sanity) – prática de lógica com JavaScript  
-- [projetoFerlluJs](https://github.com/EricssonAlexsander01/projetoFerlluJs) – repositório de estudo com HTML  
-- [2-Semestre-Orienta-o-a-Objetos-e-UML](https://github.com/EricssonAlexsander01/2-Semestre-Orienta-o-a-Objetos-e-UML) – disciplina de orientação a objetos com Java e UML
-- [primeiros-passos-html-css](https://github.com/EricssonAlexsander01/primeiros-passos-html-css.git) - Projeto inicial de desenvolvimento web usando HTML e CSS, com foco na estruturação básica de páginas e estilização simples
+**Linguagens e desenvolvimento**
+- JavaScript
+- Python
+- PHP
+- Java
+- HTML e CSS
 
----
+**Banco de dados**
+- SQLite
+- MySQL
+- SQL
 
-<details>
-  <summary>📚 Atualmente estudando</summary>
+**Ferramentas e tecnologias**
+- Node.js
+- Express
+- APIs REST
+- Git e GitHub
+- Cloudflare Workers e D1
 
-- Estatística aplicada à computação  
-- Fundamentos da filosofia e raciocínio computacional  
-- Modelagem de sites e lógica de programação  
+## Projetos em destaque
 
-</details>
+### 1. Digão Gestão — Sistema de Gestão Comercial
 
----
+Sistema desenvolvido para um estabelecimento comercial real, com módulos de PDV, controle de caixa, pedidos, cozinha, financeiro e relatórios.
 
-⭐ Vamos evoluir juntos! Conecte-se comigo por aqui no GitHub ou pelo e-mail: **alexsanderericsson@outlook.com**
+**Tecnologias:** Node.js, Express, SQLite, SQL, HTML, CSS e JavaScript.
+
+*Código-fonte privado por se tratar de um sistema desenvolvido para um cliente.*
+
+### 2. [Barbearia Agendamento](https://github.com/EricssonAlexsander01/barbearia-agendamento)
+
+Sistema de agendamento online para barbearia, utilizando infraestrutura serverless.
+
+**Tecnologias:** JavaScript, Cloudflare Workers e D1.
+
+### 3. [Projeto ESP32 IoT](https://github.com/EricssonAlexsander01/Atividade-Formativa-ESP32)
+
+Projeto de monitoramento de temperatura e umidade com envio de dados para a nuvem e acionamento de relé.
+
+**Tecnologias:** ESP32, C++, Arduino, DHT11 e ThingSpeak.
+
+### 4. [Raciocínio Computacional](https://github.com/EricssonAlexsander01/puc-raciocinio-computacional)
+
+Sistema de gerenciamento escolar com cadastro e gerenciamento de estudantes, professores, disciplinas, turmas e matrículas, utilizando persistência em arquivos JSON.
+
+**Tecnologia:** Python.
+
+## Formação
+
+**Análise e Desenvolvimento de Sistemas — PUCPR**
+
+Graduação em andamento | EAD
+
+## Contato
+
+- **E-mail:** alexsanderericsson@outlook.com
+- **GitHub:** [EricssonAlexsander01](https://github.com/EricssonAlexsander01)
